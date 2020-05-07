@@ -11,8 +11,7 @@ class Song
 
     @@artists<<artist
 
-    if ! @@genres.include?(genre)
-      @@genres<<genre
-    end
+    @@genres<<genre
+    
   end
 end
