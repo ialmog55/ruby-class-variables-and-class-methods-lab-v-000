@@ -42,6 +42,6 @@ class Song
        end
        artist_c
       end
-    
+
 
 end
