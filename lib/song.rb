@@ -12,6 +12,6 @@ class Song
     @@genres<<genre
   end
   def count
-    @@count.length
+    return @@count.length
   end
 end
