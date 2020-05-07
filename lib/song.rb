@@ -26,10 +26,10 @@ class Song
        genre_c[genre] += 1
      end
      genre_c
-        
-        
-        
-      
+
+
+
+
     end
   end
 end
