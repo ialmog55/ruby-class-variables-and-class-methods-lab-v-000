@@ -11,7 +11,7 @@ class Song
     @@artists<<artist
     @@genres<<genre
   end
-  def count
-    return @@count.length
+  def self.count
+     @@count.length
   end
 end
